@@ -1,0 +1,6 @@
+Thyroid D
+
+- pymongo issue resolved
+- new database setting (mongodb, string)
+- Everything TDenv 
+- run main.py via vscd up right
