@@ -1,6 +1,16 @@
 Thyroid D
 
 - pymongo issue resolved
-- new database setting (mongodb, string)
+- new database setting (mongodb, string) (mongodb atlas with python)
 - Everything TDenv 
 - run main.py via vscd up right
+
+brew uninstall mongodb-community
+to install requirements.txt - conda and pip both were used, by commenting half of them and then use suitable channels, arm64
+
+
+Run the app - *python main.py*
+http://127.0.0.1:5000/predict
+
+vscode jupyter change kernel as change interpretor, select kernel as TDenv
+demo - https://www.youtube.com/watch?v=Vkn9Hi-M3r0
